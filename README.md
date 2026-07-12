@@ -26,10 +26,11 @@ TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Sol
 ## Engineering Log
 
 <!-- STREAK -->
-*Live, automated full-stack AI engineering micro-lessons. 2 entries, 1-day streak (last: 2026-07-12).*
+*Live, automated full-stack AI engineering micro-lessons. 3 entries, 2-day streak (last: 2026-07-13).*
 <!-- /STREAK -->
 
 <!-- LOGS -->
+- 2026-07-13: [Make agent tool calls idempotent with a deterministic key](entries/2026-07-13-slot0.md)
 - 2026-07-12: [Idempotent API endpoints with an idempotency key](entries/2026-07-12-slot2.md)
 - 2026-07-12: [Streaming LLM tokens to the browser with the Fetch API](entries/2026-07-12-slot1.md)
 <!-- /LOGS -->
