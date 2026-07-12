@@ -18,3 +18,16 @@
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 🛠️ Engineering Log
+
+<!-- STREAK -->
+*Live, automated full-stack AI engineering micro-lessons. 2 entries, 1-day streak (last: 2026-07-12).*
+<!-- /STREAK -->
+
+<!-- LOGS -->
+- 2026-07-12: [Idempotent API endpoints with an idempotency key](entries/2026-07-12-slot2.md)
+- 2026-07-12: [Streaming LLM tokens to the browser with the Fetch API](entries/2026-07-12-slot1.md)
+<!-- /LOGS -->
+
+*Updated automatically every 8 hours. Full archive in the entries folder.*
