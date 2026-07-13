@@ -26,10 +26,11 @@ TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Sol
 ## Engineering Log
 
 <!-- STREAK -->
-*Live, automated full-stack AI engineering micro-lessons. 5 entries, 2-day streak (last: 2026-07-13).*
+*Live, automated full-stack AI engineering micro-lessons. 6 entries, 3-day streak (last: 2026-07-14).*
 <!-- /STREAK -->
 
 <!-- LOGS -->
+- 2026-07-14: [Deduplicate near-duplicate chunks before embedding to cut RAG cost and retrieval noise](entries/2026-07-14-slot0.md)
 - 2026-07-13: [Retry LLM calls with jittered exponential backoff, not fixed sleeps](entries/2026-07-13-slot2.md)
 - 2026-07-13: [Cut LLM cost and latency with prompt caching](entries/2026-07-13-slot1.md)
 - 2026-07-13: [Make agent tool calls idempotent with a deterministic key](entries/2026-07-13-slot0.md)
