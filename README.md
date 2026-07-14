@@ -26,10 +26,11 @@ TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Sol
 ## Engineering Log
 
 <!-- STREAK -->
-*Live, automated full-stack AI engineering micro-lessons. 7 entries, 3-day streak (last: 2026-07-14).*
+*Live, automated full-stack AI engineering micro-lessons. 8 entries, 3-day streak (last: 2026-07-14).*
 <!-- /STREAK -->
 
 <!-- LOGS -->
+- 2026-07-14: [Bounded concurrency beats Promise.all for LLM batches](entries/2026-07-14-slot2.md)
 - 2026-07-14: [Idempotency keys keep LLM retries from double-firing](entries/2026-07-14-slot1.md)
 - 2026-07-14: [Deduplicate near-duplicate chunks before embedding to cut RAG cost and retrieval noise](entries/2026-07-14-slot0.md)
 - 2026-07-13: [Retry LLM calls with jittered exponential backoff, not fixed sleeps](entries/2026-07-13-slot2.md)
