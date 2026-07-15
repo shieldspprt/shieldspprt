@@ -26,10 +26,11 @@ TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Sol
 ## Engineering Log
 
 <!-- STREAK -->
-*Live, automated full-stack AI engineering micro-lessons. 9 entries, 4-day streak (last: 2026-07-15).*
+*Live, automated full-stack AI engineering micro-lessons. 10 entries, 4-day streak (last: 2026-07-15).*
 <!-- /STREAK -->
 
 <!-- LOGS -->
+- 2026-07-15: [Constrain LLM output with a JSON schema instead of parsing prose](entries/2026-07-15-slot1.md)
 - 2026-07-15: [Order a composite Postgres index to match your query shape](entries/2026-07-15-slot0.md)
 - 2026-07-14: [Bounded concurrency beats Promise.all for LLM batches](entries/2026-07-14-slot2.md)
 - 2026-07-14: [Idempotency keys keep LLM retries from double-firing](entries/2026-07-14-slot1.md)
