@@ -26,10 +26,11 @@ TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Sol
 ## Engineering Log
 
 <!-- STREAK -->
-*Live, automated full-stack AI engineering micro-lessons. 11 entries, 4-day streak (last: 2026-07-15).*
+*Live, automated full-stack AI engineering micro-lessons. 12 entries, 5-day streak (last: 2026-07-16).*
 <!-- /STREAK -->
 
 <!-- LOGS -->
+- 2026-07-16: [Colocate compute with data to avoid shipping rows you never render](entries/2026-07-16-slot0.md)
 - 2026-07-15: [A prompt cache turns repeat questions into instant, free hits](entries/2026-07-15-slot2.md)
 - 2026-07-15: [Constrain LLM output with a JSON schema instead of parsing prose](entries/2026-07-15-slot1.md)
 - 2026-07-15: [Order a composite Postgres index to match your query shape](entries/2026-07-15-slot0.md)
