@@ -26,10 +26,11 @@ TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Sol
 ## Engineering Log
 
 <!-- STREAK -->
-*Live, automated full-stack AI engineering micro-lessons. 16 entries, 6-day streak (last: 2026-07-17).*
+*Live, automated full-stack AI engineering micro-lessons. 17 entries, 6-day streak (last: 2026-07-17).*
 <!-- /STREAK -->
 
 <!-- LOGS -->
+- 2026-07-17: [Design idempotent webhook handlers with a dedupe key](entries/2026-07-17-slot2.md)
 - 2026-07-17: [Backend idempotency keys stop duplicate writes under retry storms](entries/2026-07-17-slot1.md)
 - 2026-07-17: [Gzip your server-sent-event stream, or you pay 10x for tokens you never read](entries/2026-07-17-slot0.md)
 - 2026-07-16: [Cache LLM tool-call schemas at the gateway, not per request](entries/2026-07-16-slot2.md)
