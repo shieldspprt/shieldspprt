@@ -26,10 +26,11 @@ TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Sol
 ## Engineering Log
 
 <!-- STREAK -->
-*Live, automated full-stack AI engineering micro-lessons. 19 entries, 7-day streak (last: 2026-07-18).*
+*Live, automated full-stack AI engineering micro-lessons. 20 entries, 8-day streak (last: 2026-07-19).*
 <!-- /STREAK -->
 
 <!-- LOGS -->
+- 2026-07-19: [Keep your RAG retriever honest with a score floor](entries/2026-07-19-slot0.md)
 - 2026-07-18: [Backend idempotency keys stop duplicate writes from retries](entries/2026-07-18-slot2.md)
 - 2026-07-18: [Cache your LLM responses at the edge to cut cost and latency](entries/2026-07-18-slot1.md)
 - 2026-07-17: [Design idempotent webhook handlers with a dedupe key](entries/2026-07-17-slot2.md)
