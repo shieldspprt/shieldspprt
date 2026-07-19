@@ -26,10 +26,11 @@ TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Sol
 ## Engineering Log
 
 <!-- STREAK -->
-*Live, automated full-stack AI engineering micro-lessons. 21 entries, 8-day streak (last: 2026-07-19).*
+*Live, automated full-stack AI engineering micro-lessons. 22 entries, 9-day streak (last: 2026-07-20).*
 <!-- /STREAK -->
 
 <!-- LOGS -->
+- 2026-07-20: [Stream tool-call results to the client instead of buffering the full response](entries/2026-07-20-slot0.md)
 - 2026-07-19: [Ship a typed tool layer so agents never guess a schema](entries/2026-07-19-slot2.md)
 - 2026-07-19: [Keep your RAG retriever honest with a score floor](entries/2026-07-19-slot0.md)
 - 2026-07-18: [Backend idempotency keys stop duplicate writes from retries](entries/2026-07-18-slot2.md)
