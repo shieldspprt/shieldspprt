@@ -26,10 +26,11 @@ TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Sol
 ## Engineering Log
 
 <!-- STREAK -->
-*Live, automated full-stack AI engineering micro-lessons. 25 entries, 10-day streak (last: 2026-07-21).*
+*Live, automated full-stack AI engineering micro-lessons. 26 entries, 10-day streak (last: 2026-07-21).*
 <!-- /STREAK -->
 
 <!-- LOGS -->
+  - 2026-07-21: [Stream partial JSON from LLMs with a tolerant parser so the UI updates token by token](entries/2026-07-21-slot2.md)
   - 2026-07-21: [Coalesce identical in-flight LLM requests to share one upstream call](entries/2026-07-21-slot1.md)
 - 2026-07-21: [Stream tool-call results to the client instead of buffering the full response](entries/2026-07-21-slot0.md)
 - 2026-07-20: [Eval-driven prompt design beats prompt engineering by feel](entries/2026-07-20-slot2.md)
