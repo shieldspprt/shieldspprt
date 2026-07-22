@@ -26,10 +26,11 @@ TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Sol
 ## Engineering Log
 
 <!-- STREAK -->
-*Live, automated full-stack AI engineering micro-lessons. 29 entries, 11-day streak (last: 2026-07-22).*
+*Live, automated full-stack AI engineering micro-lessons. 30 entries, 11-day streak (last: 2026-07-22).*
 <!-- /STREAK -->
 
 <!-- LOGS -->
+  - 2026-07-22: [Validate structured LLM output with a strict schema before it reaches your database](entries/2026-07-22-slot1.md)
   - 2026-07-22: [Use a request-scoped cache to deduplicate identical LLM calls within a single user request](entries/2026-07-22-slot0.md)
   - 2026-07-21: [Stream partial JSON from LLMs with a tolerant parser so the UI updates token by token](entries/2026-07-21-slot2.md)
   - 2026-07-21: [Coalesce identical in-flight LLM requests to share one upstream call](entries/2026-07-21-slot1.md)
