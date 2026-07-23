@@ -26,10 +26,11 @@ TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Sol
 ## Engineering Log
 
 <!-- STREAK -->
-*Live, automated full-stack AI engineering micro-lessons. 31 entries, 12-day streak (last: 2026-07-23).*
+*Live, automated full-stack AI engineering micro-lessons. 32 entries, 12-day streak (last: 2026-07-23).*
 <!-- /STREAK -->
 
 <!-- LOGS -->
+  - 2026-07-23: [Semantic caching cuts LLM costs for near-duplicate prompts](entries/2026-07-23-slot1.md)
   - 2026-07-23: [Token budgets keep agent loops from spiraling](entries/2026-07-23-slot0.md)
   - 2026-07-22: [Validate structured LLM output with a strict schema before it reaches your database](entries/2026-07-22-slot1.md)
   - 2026-07-22: [Use a request-scoped cache to deduplicate identical LLM calls within a single user request](entries/2026-07-22-slot0.md)
