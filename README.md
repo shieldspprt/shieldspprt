@@ -26,10 +26,11 @@ TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Sol
 ## Engineering Log
 
 <!-- STREAK -->
-*Live, automated full-stack AI engineering micro-lessons. 34 entries, 13-day streak (last: 2026-07-24).*
+*Live, automated full-stack AI engineering micro-lessons. 36 entries, 13-day streak (last: 2026-07-24).*
 <!-- /STREAK -->
 
 <!-- LOGS -->
+  - 2026-07-24: [Circuit Breaker for LLM Provider Failures](entries/2026-07-24-slot2.md)
   - 2026-07-24: [Structured Output Validation with Pydantic and Retry Logic](entries/2026-07-24-slot0.md)
   - 2026-07-23: [Rate-limit LLM calls per user with a token bucket](entries/2026-07-23-slot2.md)
   - 2026-07-23: [Semantic caching cuts LLM costs for near-duplicate prompts](entries/2026-07-23-slot1.md)
