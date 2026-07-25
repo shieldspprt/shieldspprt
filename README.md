@@ -26,10 +26,11 @@ TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Sol
 ## Engineering Log
 
 <!-- STREAK -->
-*Live, automated full-stack AI engineering micro-lessons. 38 entries, 14-day streak (last: 2026-07-25).*
+*Live, automated full-stack AI engineering micro-lessons. 39 entries, 14-day streak (last: 2026-07-25).*
 <!-- /STREAK -->
 
 <!-- LOGS -->
+  - 2026-07-25: [Validate Tool-Call Arguments Against a JSON Schema Before Execution](entries/2026-07-25-slot2.md)
   - 2026-07-25: [Prefill the Assistant Message to Steer JSON Output Reliably](entries/2026-07-25-slot1.md)
   - 2026-07-25: [Batch LLM Calls with a Bounded Semaphore](entries/2026-07-25-slot0.md)
   - 2026-07-24: [Circuit Breaker for LLM Provider Failures](entries/2026-07-24-slot2.md)
