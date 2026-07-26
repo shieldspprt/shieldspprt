@@ -26,10 +26,12 @@ TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Sol
 ## Engineering Log
 
 <!-- STREAK -->
-*Live, automated full-stack AI engineering micro-lessons. 42 entries, 15-day streak (last: 2026-07-26).*
+*Live, automated full-stack AI engineering micro-lessons. 43 entries, 16-day streak (last: 2026-07-27).*
 <!-- /STREAK -->
 
-<!-- LOGS -->  - 2026-07-26: [Use a Request-Scoped Dedupe Cache for Identical In-Flight LLM Calls](entries/2026-07-26-slot2.md)
+<!-- LOGS -->
+  - 2026-07-27: [Register Tool Schemas at Startup and Validate Every Agent Call Against Them](entries/2026-07-27-slot0.md)
+  - 2026-07-26: [Use a Request-Scoped Dedupe Cache for Identical In-Flight LLM Calls](entries/2026-07-26-slot2.md)
   - 2026-07-26: [Stream Tool-Call Results to the Client Instead of Buffering the Full Response](entries/2026-07-26-slot1.md)
   - 2026-07-26: [Run Async LLM Calls in Batches with a Bounded Semaphore](entries/2026-07-26-slot0.md)
   - 2026-07-25: [Validate Tool-Call Arguments Against a JSON Schema Before Execution](entries/2026-07-25-slot2.md)
