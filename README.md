@@ -26,10 +26,11 @@ TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Sol
 ## Engineering Log
 
 <!-- STREAK -->
-*Live, automated full-stack AI engineering micro-lessons. 40 entries, 15-day streak (last: 2026-07-26).*
+*Live, automated full-stack AI engineering micro-lessons. 41 entries, 15-day streak (last: 2026-07-26).*
 <!-- /STREAK -->
 
 <!-- LOGS -->
+  - 2026-07-26: [Stream Tool-Call Results to the Client Instead of Buffering the Full Response](entries/2026-07-26-slot1.md)
   - 2026-07-26: [Run Async LLM Calls in Batches with a Bounded Semaphore](entries/2026-07-26-slot0.md)
   - 2026-07-25: [Validate Tool-Call Arguments Against a JSON Schema Before Execution](entries/2026-07-25-slot2.md)
   - 2026-07-25: [Prefill the Assistant Message to Steer JSON Output Reliably](entries/2026-07-25-slot1.md)
@@ -47,10 +48,10 @@ TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Sol
 - 2026-07-20: [Eval-driven prompt design beats prompt engineering by feel](entries/2026-07-20-slot2.md)
 - 2026-07-20: [Stream tool-call results to the client instead of buffering the full response](entries/2026-07-20-slot0.md)
 - 2026-07-19: [Ship a typed tool layer so agents never guess a schema](entries/2026-07-19-slot2.md)
-- 2026-07-19: [Keep your RAG retriever honest with a score floor](entries/2026-07-19-slot0.md)
-- 2026-07-18: [Backend idempotency keys stop duplicate writes from retries](entries/2026-07-18-slot2.md)
+- 2026-07-19: [Keep your RAG retriever honest with a score floor](entries/2026-07-19_slot0.md)
+- 2026-07-18: [Backend idempotency keys stop duplicate writes from retries](entries/2026-07-18_slot2.md)
 - 2026-07-18: [Cache your LLM responses at the edge to cut cost and latency](entries/2026-07-18_slot1.md)
-- 2026-07-17: [Design idempotent webhook handlers with a dedupe key](entries/2026-07-17-slot2.md)
+- 2026-07-17: [Design idempotent webhook handlers with a dedupe key](entries/2026-07-17_slot2.md)
 - 2026-07-17: [Backend idempotency keys stop duplicate writes under retry storms](entries/2026-07-17_slot1.md)
 - 2026-07-17: [Gzip your server-sent-event stream, or you pay 10x for tokens you never read](entries/2026-07-17_slot0.md)
 - 2026-07-16: [Cache LLM tool-call schemas at the gateway, not per request](entries/2026-07-16_slot2.md)
