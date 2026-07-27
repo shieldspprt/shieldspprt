@@ -26,10 +26,11 @@ TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Sol
 ## Engineering Log
 
 <!-- STREAK -->
-*Live, automated full-stack AI engineering micro-lessons. 45 entries, 16-day streak (last: 2026-07-27).*
+*Live, automated full-stack AI engineering micro-lessons. 46 entries, 17-day streak (last: 2026-07-28).*
 <!-- /STREAK -->
 
 <!-- LOGS -->
+  - 2026-07-28: [Use a Typed Tool Layer So Agents Never Guess a Schema](entries/2026-07-28-slot0.md)
   - 2026-07-27: [Prefill the Assistant Message to Steer JSON Output Reliably](entries/2026-07-27-slot2.md)
   - 2026-07-27: [Stream partial tool-call results to the client instead of buffering everything](entries/2026-07-27-slot1.md)
   - 2026-07-27: [Register Tool Schemas at Startup and Validate Every Agent Call Against Them](entries/2026-07-27-slot0.md)
