@@ -26,10 +26,12 @@ TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Sol
 ## Engineering Log
 
 <!-- STREAK -->
-*Live, automated full-stack AI engineering micro-lessons. 47 entries, 17-day streak (last: 2026-07-28).*
+*Live, automated full-stack AI engineering micro-lessons. 49 entries, 18-day streak (last: 2026-07-29).*
 <!-- /STREAK -->
 
 <!-- LOGS -->
+  - 2026-07-29: [Handle partial tool-call failures with compensating actions](entries/2026-07-29-slot1.md)
+  - 2026-07-29: [Execute independent tool calls in parallel to reduce agent loop latency](entries/2026-07-29-slot0.md)
   - 2026-07-28: [Optimistic UI Updates with Server Reconciliation for Chat](entries/2026-07-28-slot2.md)
   - 2026-07-28: [Use a Typed Tool Layer So Agents Never Guess a Schema](entries/2026-07-28-slot0.md)
   - 2026-07-27: [Prefill the Assistant Message to Steer JSON Output Reliably](entries/2026-07-27-slot2.md)
