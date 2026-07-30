@@ -7,29 +7,34 @@ Right now I am building SolHunt, tooling that helps people recover forgotten SOL
 Open to full-stack AI engineering roles and small, useful teams.
 
 ## What I do
+
 - Design and ship AI agents (RAG, evals, tool use) that solve real tasks, not toy demos
 - Build full-stack apps in TypeScript with React up front and Bun or Node behind
 - Ship on Solana: Solidity and Rust programs, wallet tooling, trustless recovery flows
 - Automate the boring parts with scheduled agents, MCP servers, and CI
 
 ## Selected work
+
 - **[SolHunt](https://github.com/shieldspprt/solhunt-recovery)**: recover forgotten SOL, sweep dust, reclaim rent, and revoke approvals without custody.
 - **[solhunt-skill](https://github.com/shieldspprt/solhunt-skill)**: AI agent skill for wallet health checks and approval auditing.
 - **[Yellex](https://github.com/shieldspprt/yellex)**: AI pickup-line game built around Solana legends and historical figures.
 
 ## Stack I reach for
+
 TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Solidity / Rust · Docker · Cloudflare · AWS · GitHub Actions
 
 ## Find me
+
 - X: [@solhuntdev](https://x.com/solhuntdev)
 
 ## Engineering Log
 
 <!-- STREAK -->
-*Live, automated full-stack AI engineering micro-lessons. 51 entries, 19-day streak (last: 2026-07-30).*
+*Live, automated full-stack AI engineering micro-lessons. 52 entries, 19-day streak (last: 2026-07-30).*
 <!-- /STREAK -->
 
 <!-- LOGS -->
+  - 2026-07-30: [Bounded concurrency for parallel tool execution prevents resource exhaustion](entries/2026-07-30-slot1.md)
   - 2026-07-30: [Backpressure on LLM token streams keeps memory bounded](entries/2026-07-30-slot0.md)
   - 2026-07-29: [Graceful degradation keeps your agent useful when the primary LLM provider degrades](entries/2026-07-29-slot2.md)
   - 2026-07-29: [Handle partial tool-call failures with compensating actions](entries/2026-07-29-slot1.md)
