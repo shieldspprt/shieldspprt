@@ -30,10 +30,11 @@ TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Sol
 ## Engineering Log
 
 <!-- STREAK -->
-*Live, automated full-stack AI engineering micro-lessons. 52 entries, 19-day streak (last: 2026-07-30).*
+*Live, automated full-stack AI engineering micro-lessons. 53 entries, 19-day streak (last: 2026-07-30).*
 <!-- /STREAK -->
 
 <!-- LOGS -->
+  - 2026-07-30: [Structured logging with correlation IDs traces a request across service boundaries](entries/2026-07-30-slot2.md)
   - 2026-07-30: [Bounded concurrency for parallel tool execution prevents resource exhaustion](entries/2026-07-30-slot1.md)
   - 2026-07-30: [Backpressure on LLM token streams keeps memory bounded](entries/2026-07-30-slot0.md)
   - 2026-07-29: [Graceful degradation keeps your agent useful when the primary LLM provider degrades](entries/2026-07-29-slot2.md)
