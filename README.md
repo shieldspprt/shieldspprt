@@ -30,10 +30,11 @@ TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Sol
 ## Engineering Log
 
 <!-- STREAK -->
-*Live, automated full-stack AI engineering micro-lessons. 55 entries, 20-day streak (last: 2026-07-31).*
+*Live, automated full-stack AI engineering micro-lessons. 56 entries, 21-day streak (last: 2026-08-01).*
 <!-- /STREAK -->
 
 <!-- LOGS -->
+  - 2026-08-01: [Structured error envelopes make agent failures debuggable](entries/2026-08-01-slot0.md)
   - 2026-07-31: [Agent checkpointing](entries/2026-07-31-slot1.md)
   - 2026-07-30: [Structured logging with correlation IDs traces a request across service boundaries](entries/2026-07-30-slot2.md)
   - 2026-07-30: [Bounded concurrency for parallel tool execution prevents resource exhaustion](entries/2026-07-30-slot1.md)
