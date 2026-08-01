@@ -30,10 +30,11 @@ TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Sol
 ## Engineering Log
 
 <!-- STREAK -->
-*Live, automated full-stack AI engineering micro-lessons. 58 entries, 21-day streak (last: 2026-08-01).*
+*Live, automated full-stack AI engineering micro-lessons. 59 entries, 21-day streak (last: 2026-08-01).*
 <!-- /STREAK -->
 
 <!-- LOGS -->
+  - 2026-08-01: [Prefetch and cache embeddings for known query patterns](entries/2026-08-01-slot2.md)
   - 2026-08-01: [Stream partial tool-call results to the client instead of buffering everything](entries/2026-08-01-slot1.md)
   - 2026-08-01: [Structured error envelopes make agent failures debuggable](entries/2026-08-01-slot0.md)
   - 2026-07-31: [Agent checkpointing](entries/2026-07-31-slot1.md)
