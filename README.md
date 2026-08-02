@@ -30,10 +30,11 @@ TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Sol
 ## Engineering Log
 
 <!-- STREAK -->
-*Live, automated full-stack AI engineering micro-lessons. 62 entries, 22-day streak (last: 2026-08-02).*
+*Live, automated full-stack AI engineering micro-lessons. 63 entries, 23-day streak (last: 2026-08-03).*
 <!-- /STREAK -->
 
 <!-- LOGS -->
+  - 2026-08-03: [Use Postgres advisory locks to coordinate distributed agent workers](entries/2026-08-03-slot0.md)
   - 2026-08-02: [A circuit breaker around external API calls in agent tools prevents cascade failures when a downstream service degrades](entries/2026-08-02-slot2.md)
   - 2026-08-02: [A typed event bus lets you observe agent behavior without coupling instrumentation to business logic](entries/2026-08-02-slot1.md)
   - 2026-08-02: [Eval-driven prompt iteration beats manual tuning](entries/2026-08-02-slot0.md)
