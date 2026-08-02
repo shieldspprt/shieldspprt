@@ -30,10 +30,11 @@ TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Sol
 ## Engineering Log
 
 <!-- STREAK -->
-*Live, automated full-stack AI engineering micro-lessons. 60 entries, 22-day streak (last: 2026-08-02).*
+*Live, automated full-stack AI engineering micro-lessons. 61 entries, 22-day streak (last: 2026-08-02).*
 <!-- /STREAK -->
 
 <!-- LOGS -->
+  - 2026-08-02: [A typed event bus lets you observe agent behavior without coupling instrumentation to business logic](entries/2026-08-02-slot1.md)
   - 2026-08-02: [Eval-driven prompt iteration beats manual tuning](entries/2026-08-02-slot0.md)
   - 2026-08-01: [Prefetch and cache embeddings for known query patterns](entries/2026-08-01-slot2.md)
   - 2026-08-01: [Stream partial tool-call results to the client instead of buffering everything](entries/2026-08-01-slot1.md)
