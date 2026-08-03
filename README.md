@@ -30,10 +30,11 @@ TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Sol
 ## Engineering Log
 
 <!-- STREAK -->
-*Live, automated full-stack AI engineering micro-lessons. 65 entries, 23-day streak (last: 2026-08-03).*
+*Live, automated full-stack AI engineering micro-lessons. 66 entries, 24-day streak (last: 2026-08-04).*
 <!-- /STREAK -->
 
 <!-- LOGS -->
+  - 2026-08-04: [Fan out independent LLM calls with a bounded semaphore and collect results in order](entries/2026-08-04-slot0.md)
   - 2026-08-03: [Propagate trace IDs and user identity through async call chains with a request-scoped context](entries/2026-08-03-slot2.md)
   - 2026-08-03: [Use Postgres advisory locks to coordinate distributed agent workers](entries/2026-08-03-slot0.md)
   - 2026-08-02: [A circuit breaker around external API calls in agent tools prevents cascade failures when a downstream service degrades](entries/2026-08-02-slot2.md)
