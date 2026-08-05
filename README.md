@@ -30,10 +30,11 @@ TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Sol
 ## Engineering Log
 
 <!-- STREAK -->
-*Live, automated full-stack AI engineering micro-lessons. 68 entries, 24-day streak (last: 2026-08-04).*
+*Live, automated full-stack AI engineering micro-lessons. 69 entries, 25-day streak (last: 2026-08-05).*
 <!-- /STREAK -->
 
 <!-- LOGS -->
+- 2026-08-05: [An eval harness that runs on every PR catches agent regressions before they reach production](entries/2026-08-05-slot1.md)
 - 2026-08-04: [Batch database writes from agent tool calls into a single transaction to reduce round trips and avoid partial commits on failure](entries/2026-08-04-slot2.md)
 - 2026-08-04: [Store the raw LLM response alongside the parsed output so evals can catch parsing drift without re-running the model](entries/2026-08-04-slot1.md)
   - 2026-08-04: [Fan out independent LLM calls with a bounded semaphore and collect results in order](entries/2026-08-04-slot0.md)
