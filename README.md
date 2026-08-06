@@ -30,10 +30,11 @@ TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Sol
 ## Engineering Log
 
 <!-- STREAK -->
-*Live, automated full-stack AI engineering micro-lessons. 71 entries, 26-day streak (last: 2026-08-06).*
+*Live, automated full-stack AI engineering micro-lessons. 74 entries, 26-day streak (last: 2026-08-06).*
 <!-- /STREAK -->
 
 <!-- LOGS -->
+- 2026-08-06: [Request-scoped context with contextvars propagates trace IDs across async boundaries](entries/2026-08-06-slot2.md)
 - 2026-08-06: [Idempotent webhook handlers with a dedupe key prevent duplicate processing when retries arrive out of order](entries/2026-08-06-slot0.md)
 - 2026-08-05: [Deterministic agent replay lets you re-run a failed session with the exact same LLM outputs to debug without burning tokens or hitting rate limits](entries/2026-08-05-slot2.md)
 - 2026-08-05: [An eval harness that runs on every PR catches agent regressions before they reach production](entries/2026-08-05-slot1.md)
