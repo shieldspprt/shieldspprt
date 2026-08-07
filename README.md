@@ -30,10 +30,11 @@ TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Sol
 ## Engineering Log
 
 <!-- STREAK -->
-*Live, automated full-stack AI engineering micro-lessons. 76 entries, 27-day streak (last: 2026-08-07).*
+*Live, automated full-stack AI engineering micro-lessons. 77 entries, 27-day streak (last: 2026-08-07).*
 <!-- /STREAK -->
 
 <!-- LOGS -->
+- 2026-08-07: [Attach a unique request ID to every LLM call to correlate retries, timeouts, and cost](entries/2026-08-07-slot2.md)
 - 2026-08-07: [Rate limits are contracts not suggestions](entries/2026-08-07-slot1.md)
 - 2026-08-07: [Request-scoped caches dedupe identical in-flight LLM calls](entries/2026-08-07-slot0.md)
 - 2026-08-06: [Request-scoped context with contextvars propagates trace IDs across async boundaries](entries/2026-08-06-slot2.md)
