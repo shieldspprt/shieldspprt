@@ -30,10 +30,11 @@ TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Sol
 ## Engineering Log
 
 <!-- STREAK -->
-*Live, automated full-stack AI engineering micro-lessons. 78 entries, 28-day streak (last: 2026-08-08).*
+*Live, automated full-stack AI engineering micro-lessons. 79 entries, 28-day streak (last: 2026-08-08).*
 <!-- /STREAK -->
 
 <!-- LOGS -->
+ - 2026-08-08: [Version prompt templates and log the rendered prompt so evals can reproduce exact model inputs](entries/2026-08-08-slot1.md)
  - 2026-08-08: [Trace ID Propagation Across Async Boundaries](entries/2026-08-08-slot0.md)
 - 2026-08-07: [Attach a unique request ID to every LLM call to correlate retries, timeouts, and cost](entries/2026-08-07-slot2.md)
 - 2026-08-07: [Rate limits are contracts not suggestions](entries/2026-08-07-slot1.md)
